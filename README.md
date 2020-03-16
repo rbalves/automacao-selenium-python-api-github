@@ -16,4 +16,4 @@ Após instalar os pacotes, execute:
 ```
 python main.py
 ```
-Para entender melhor sobre o projeto, leia o post clicando [aqui](https://medium.com/@rbalves.ads/automa%C3%A7%C3%A3o-com-selenium-webdriver-consumindo-dados-de-uma-api-ba085f4f1648)
+Para entender melhor sobre o projeto, leia o post clicando [aqui](https://medium.com/@rbalves.ads/automa%C3%A7%C3%A3o-com-selenium-webdriver-consumindo-dados-de-uma-api-ba085f4f1648).
